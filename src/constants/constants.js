@@ -4,8 +4,8 @@ export const projects = [
     description: "Using React, Next.js we have built a Real Estate Application. It has Rental Homes for everyone and allows users to explore Apartments, builder floors, villas and more.",
       image: '/images/1.png',
       tags: ['Javascript', 'React', 'Next'],
-    source: 'https://github.com/Anupam0202/Real-Estate',
-    visit: 'https://real-estate-tau-ten.vercel.app/',
+    source: 'https://real-estate-tau-ten.vercel.app/',
+    visit: 'https://github.com/Anupam0202/Real-Estate',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description: "This includes React Functional components and Fundamental CSS properties with master flex & grid. This app evolves around Modern UI(Generative Pre Transformer for third generation).",
     image: '/images/2.png',
     tags: ['React', 'JavaScript','Css'],
-    source: 'https://github.com/Anupam0202/Modern_UI-UX_GPT3',
-    visit: 'https://anupam0202.github.io/Modern_UI-UX_GPT3/',
+    source: 'https://anupam0202.github.io/Modern_UI-UX_GPT3/',
+    visit: 'https://github.com/Anupam0202/Modern_UI-UX_GPT3',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "This is my personal portfoilo, used to showcase my skills and projects.",
       image: '/images/3.png',
       tags: ['React', 'Javascript'],
-    source: 'https://github.com/Anupam0202/My-Portfolio',
-    visit: 'https://anupam0202.github.io/My-Portfolio/',
+    source: 'https://anupam0202.github.io/My-Portfolio/',
+    visit: 'https://github.com/Anupam0202/My-Portfolio',
     id: 2,
   },
   {
